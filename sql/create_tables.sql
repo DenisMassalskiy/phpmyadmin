@@ -73,7 +73,7 @@ CREATE TABLE IF NOT EXISTS `pma__column_info` (
 -- --------------------------------------------------------
 
 --
--- Table structure for table `pma__history`
+-- Table structure for table `pma__history` 
 --
 
 CREATE TABLE IF NOT EXISTS `pma__history` (
